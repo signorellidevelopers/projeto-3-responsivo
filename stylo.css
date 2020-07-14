@@ -146,3 +146,7 @@ h1,h2,h3,h4,h5,h6{
     letter-spacing: .1em;
     line-height: 1.5;
  }
+ /* midia querie*/
+ @media screen and (min-width: 48.75em){
+
+ }
